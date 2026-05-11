@@ -26,8 +26,6 @@
 | ---------------------- | -------------------------------------------- |
 | 📗 Excel               | Limpieza, tablas dinámicas y visualizaciones |
 | 🗄️ SQL                | Consultas y análisis de datos                |
-| 📊 Power BI            | Dashboard y KPIs                             |
-| 🐍 Python *(opcional)* | Modelos predictivos                          |
 
 ---
 
@@ -53,8 +51,6 @@ Dataset utilizado:
 
 ---
 
----
-
 ## 📌 Flujo del Proyecto
 
 ```text
@@ -66,12 +62,6 @@ Dataset → Limpieza → Exploración → SQL → Insights → Estrategias → D
 # 1️⃣ Entendimiento del problema
 
 El churn ocurre cuando un cliente deja de utilizar el servicio.
-
-En empresas de telecomunicaciones, reducir el churn es crítico porque:
-
-* adquirir nuevos clientes cuesta más que retener existentes
-* afecta ingresos recurrentes
-* reduce estabilidad del negocio
 
 La variable principal del análisis es:
 
