@@ -170,20 +170,7 @@ Crear segmentos:
 Hallazgo esperado:
 
 * más llamadas al soporte = mayor churn
-
----
-
-## Paso 3 — Visualizaciones
-
-Gráficos recomendados:
-
-| Gráfico   | Objetivo                    |
-| --------- | --------------------------- |
-| Barras    | Comparar churn por contrato |
-| Pie chart | Distribución churn/no churn |
-| Heatmap   | Relación variables          |
-| Línea     | Evolución temporal          |
-
+crear un entorno virtual de Python
 ---
 
 # 4️⃣ Análisis en SQL 🗄️
