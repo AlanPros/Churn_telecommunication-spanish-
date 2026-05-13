@@ -103,11 +103,12 @@ Detectar vacíos:
 
 ```excel
 =CONTAR.BLANCO(A:A)
+```
 
 Detectar duplicados:
 
 ```excel
-=COUNTAR.SI(A:A,A2)
+=CONTAR.SI(A:A,A2)
 ```
 
 ---
@@ -133,6 +134,8 @@ Cantidad de churn = Yes
 Hallazgo esperado:
 
 * contratos Month-to-month tienen más churn
+
+* <img width="316" height="325" alt="Captura desde 2026-05-11 18-21-59" src="https://github.com/user-attachments/assets/e133b447-b0d7-4566-930b-c697b33a7474" />
 
 ---
 
