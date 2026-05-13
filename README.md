@@ -29,8 +29,6 @@
 
 ---
 
-# 📊 Análisis de Churn en Telecomunicaciones
-
 ## Objetivo del análisis
 
 El objetivo es detectar los factores que generan churn (cancelación de clientes) y proponer estrategias para reducir la pérdida de clientes.
@@ -104,13 +102,12 @@ Acciones realizadas:
 Detectar vacíos:
 
 ```excel
-=COUNTBLANK(A:A)
-```
+=CONTAR.BLANCO(A:A)
 
 Detectar duplicados:
 
 ```excel
-=COUNTIF(A:A,A2)
+=COUNTAR.SI(A:A,A2)
 ```
 
 ---
