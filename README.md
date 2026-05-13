@@ -135,7 +135,7 @@ Hallazgo esperado:
 
 * contratos Month-to-month tienen más churn
 
- <img width="316" height="325" alt="Captura desde 2026-05-11 18-21-59" src="https://github.com/user-attachments/assets/e133b447-b0d7-4566-930b-c697b33a7474" />
+<img width="316" height="325" alt="Captura desde 2026-05-11 18-21-59" src="https://github.com/user-attachments/assets/e133b447-b0d7-4566-930b-c697b33a7474" />
 
 ---
 
@@ -157,7 +157,7 @@ Hallazgo esperado:
 
 * clientes sin soporte técnico abandonan más
 
-  <img width="330" height="315" alt="tech_support" src="https://github.com/user-attachments/assets/3aaa77ee-59c5-4145-8fda-d5dc7c5817e2" />
+<img width="330" height="315" alt="tech_support" src="https://github.com/user-attachments/assets/3aaa77ee-59c5-4145-8fda-d5dc7c5817e2" />
 
 
 ---
