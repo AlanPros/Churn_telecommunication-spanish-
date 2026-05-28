@@ -24,8 +24,8 @@
 
 | Herramienta            | Uso                                          |
 | ---------------------- | -------------------------------------------- |
-| 📗 Excel               | Limpieza, tablas dinámicas y visualizaciones |
-| 🗄️ SQL                | Consultas y análisis de datos                |
+|  Excel               | Limpieza, tablas dinámicas y visualizaciones |
+|  SQL                | Consultas y análisis de datos                |
 
 ---
 
@@ -57,7 +57,7 @@ Dataset → Limpieza → Exploración → SQL → Insights → Estrategias → D
 
 ---
 
-# 1️⃣ Entendimiento del problema
+### 1️⃣ Entendimiento del problema
 
 El churn ocurre cuando un cliente deja de utilizar el servicio.
 
