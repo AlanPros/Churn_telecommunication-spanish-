@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Objetivos del Proyecto
+##  Objetivos del Proyecto
 
 ✅ Analizar patrones de churn
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 | Herramienta            | Uso                                          |
 | ---------------------- | -------------------------------------------- |
