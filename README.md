@@ -153,7 +153,6 @@ Crear segmentos:
 Hallazgo esperado:
 
 * más llamadas al soporte = mayor churn
-crear un entorno virtual de Python
 ---
 
 # 4️⃣ Análisis en SQL 🗄️
