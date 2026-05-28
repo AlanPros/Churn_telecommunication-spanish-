@@ -29,26 +29,6 @@
 
 ---
 
-## Objetivo del análisis
-
-El objetivo es detectar los factores que generan churn (cancelación de clientes) y proponer estrategias para reducir la pérdida de clientes.
-
-Dataset utilizado:
-
-* 20.000 registros
-* 11 columnas
-* Variables relacionadas con:
-
-  * antigüedad del cliente
-  * cargos mensuales
-  * soporte técnico
-  * tipo de contrato
-  * método de pago
-  * servicio de internet
-  * churn
-
----
-
 ## 📌 Flujo del Proyecto
 
 ```text
